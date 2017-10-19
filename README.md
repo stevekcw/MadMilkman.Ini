@@ -24,7 +24,7 @@ PM> Install-Package MadMilkman.Ini
 2. Add new reference to MadMilkman.Ini.dll.
 3. Add MadMilkman.Ini namespace.
   * C# - `using MadMilkman.Ini;`
-  * VB.NET - `Import MadMilkman.Ini`
+  * VB.NET - `Imports MadMilkman.Ini`
   * C++/CLI - `using namespace MadMilkman::Ini;`
 4. Write some INI files processing code.
   * Use code samples located in MadMilkman.Ini.Samples, written in C#, VB.NET and C++/CLI as starting point.
